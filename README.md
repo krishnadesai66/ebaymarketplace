@@ -1,7 +1,7 @@
 # ebaymarketplace
 
 <h2>ABOUT: </h2>
-This project is a recreation of eBay marketplace where website users can log in as users to buy/sell, customers representatives, and admin. This functional application links a back-end database management system with an interactive UI for the users of the marketplace. 
+This project is a recreation of eBay marketplace where website users can log in as users to buy/sell, customer representatives, or website administrators. This functional application links a back-end database management system with an interactive UI for the users of the marketplace. 
 
 <h2>BUILT WITH: </h2>
 Java Server Pages, Apache Tomcat,
